@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1447297870 source:c:\users\kazakiri\desktop\作业\数据结构\图的遍历\main.cpp
+	<algorithm>
+	<iostream>
+	<iomanip>
+	<cstring>
+	<climits>
+	<complex>
+	<fstream>
+	<cassert>
+	<cstdio>
+	<bitset>
+	<vector>
+	<deque>
+	<queue>
+	<stack>
+	<ctime>
+	<set>
+	<map>
+	<cmath>
+
